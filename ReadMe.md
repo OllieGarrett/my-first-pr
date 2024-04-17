@@ -10,6 +10,9 @@ A pull request is a way to suggest changes to a repository. When you create a pu
 
 <!-- TODO: Add information on PRs and forks. -->
 
+A fork of the repository is made and the changes are made to it, the pull request then asks that those changes be 
+pulled into the original repo.
+
 ## Set up your environment
 
 ### Create a local copy of the repository
