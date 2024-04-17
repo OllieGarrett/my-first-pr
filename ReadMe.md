@@ -66,6 +66,8 @@ Pull requests are so named basically because you are asking to _pull_ changes fr
 
 <!--TODO: This answer is SO wrong, I think we need to fix it! -->
 
+Pull requests are a request for the repo owner to pull changes from your forked repointo the original repo.
+
 ### Create a local branch
 
 You read the definition above, and you can't believe they got it this wrong. The name `Pull Request` can be misleading, but come on!
