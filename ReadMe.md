@@ -50,7 +50,7 @@ git remote -v
 
 3. Consider why it does not provide a URL for pull, only `push` and `fetch`?
 
----
+--- Pull is a Fetch and Merge.
 
 4. Push the local repository to the remote repository.
 
